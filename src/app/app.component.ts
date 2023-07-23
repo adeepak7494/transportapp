@@ -9,7 +9,7 @@ import { StaticField } from './models/ride';
 })
 export class AppComponent implements OnInit {
 
-  url: string = '/assets/mock_data.json';
+  url: string = 'transportapp.github.io/assets/mock_data.json';
   constructor(private http : HttpClient){}
   ngOnInit(): void {
     this.http.get(this.url).subscribe((res : any) => {
