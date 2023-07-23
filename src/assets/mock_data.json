@@ -1,0 +1,317 @@
+[
+  {
+    "employeeId": "CHK268936",
+    "vehicleType": "Car",
+    "vehicleNo": "WAUAKAFB8BN415776",
+    "vacantSeats": 4,
+    "time": "01:27",
+    "pickupPoint": "Oneill",
+    "destination": "Service"
+  },
+  {
+    "employeeId": "QXW622425",
+    "vehicleType": "Car",
+    "vehicleNo": "1GYFK43569R974748",
+    "vacantSeats": 0,
+    "time": "01:46",
+    "pickupPoint": "Michigan",
+    "destination": "Melvin"
+  },
+  {
+    "employeeId": "SUJ221775",
+    "vehicleType": "Car",
+    "vehicleNo": "WAUUL58E45A716338",
+    "vacantSeats": 0,
+    "time": "02:29",
+    "pickupPoint": "International",
+    "destination": "Summit"
+  },
+  {
+    "employeeId": "ULV080756",
+    "vehicleType": "Car",
+    "vehicleNo": "3N1BC1AP7AL719853",
+    "vacantSeats": 2,
+    "time": "5:53",
+    "pickupPoint": "Waywood",
+    "destination": "Shelley"
+  },
+  {
+    "employeeId": "BXM085859",
+    "vehicleType": "Car",
+    "vehicleNo": "WAULK78K49N065629",
+    "vacantSeats": 1,
+    "time": "19:42",
+    "pickupPoint": "Mendota",
+    "destination": "Holy Cross"
+  },
+  {
+    "employeeId": "OZY280128",
+    "vehicleType": "Car",
+    "vehicleNo": "WBA3B9C50EF817618",
+    "vacantSeats": 3,
+    "time": "13:31",
+    "pickupPoint": "Shoshone",
+    "destination": "Shelley"
+  },
+  {
+    "employeeId": "EBN983681",
+    "vehicleType": "Bike",
+    "vehicleNo": "1G6DG1E39E0240583",
+    "vacantSeats": 2,
+    "time": "2:22",
+    "pickupPoint": "Rieder",
+    "destination": "Grover"
+  },
+  {
+    "employeeId": "BUJ960855",
+    "vehicleType": "Bike",
+    "vehicleNo": "5N1AN0NW9FN652450",
+    "vacantSeats": 2,
+    "time": "12:33",
+    "pickupPoint": "Sloan",
+    "destination": "Buell"
+  },
+  {
+    "employeeId": "CCU472936",
+    "vehicleType": "Bike",
+    "vehicleNo": "1D7CW5GK6AS988350",
+    "vacantSeats": 2,
+    "time": "20:03",
+    "pickupPoint": "Stoughton",
+    "destination": "Beilfuss"
+  },
+  {
+    "employeeId": "QIM963917",
+    "vehicleType": "Bike",
+    "vehicleNo": "JM1BL1K52B1974218",
+    "vacantSeats": 0,
+    "time": "6:25",
+    "pickupPoint": "Shoshone",
+    "destination": "Artisan"
+  },
+  {
+    "employeeId": "TEA925763",
+    "vehicleType": "Car",
+    "vehicleNo": "KMHGH4JH0FU965358",
+    "vacantSeats": 1,
+    "time": "21:26",
+    "pickupPoint": "Brickson Park",
+    "destination": "Petterle"
+  },
+  {
+    "employeeId": "OUG128869",
+    "vehicleType": "Bike",
+    "vehicleNo": "5J6TF3H58FL183503",
+    "vacantSeats": 3,
+    "time": "1:03",
+    "pickupPoint": "Amoth",
+    "destination": "Vermont"
+  },
+  {
+    "employeeId": "DYN358769",
+    "vehicleType": "Bike",
+    "vehicleNo": "WAUBF78E26A637519",
+    "vacantSeats": 0,
+    "time": "14:34",
+    "pickupPoint": "Meadow Ridge",
+    "destination": "Ilene"
+  },
+  {
+    "employeeId": "FSA726624",
+    "vehicleType": "Car",
+    "vehicleNo": "1FTFW1E89AF587498",
+    "vacantSeats": 3,
+    "time": "16:53",
+    "pickupPoint": "Melby",
+    "destination": "Summerview"
+  },
+  {
+    "employeeId": "MGJ387851",
+    "vehicleType": "Bike",
+    "vehicleNo": "4A31K5DF9CE643137",
+    "vacantSeats": 4,
+    "time": "16:52",
+    "pickupPoint": "Holmberg",
+    "destination": "Hanover"
+  },
+  {
+    "employeeId": "PUG140848",
+    "vehicleType": "Car",
+    "vehicleNo": "WAUR4AFD3CN140754",
+    "vacantSeats": 0,
+    "time": "5:28",
+    "pickupPoint": "Pepper Wood",
+    "destination": "Dennis"
+  },
+  {
+    "employeeId": "KDE247181",
+    "vehicleType": "Car",
+    "vehicleNo": "WAUKF98E38A179195",
+    "vacantSeats": 2,
+    "time": "5:59",
+    "pickupPoint": "Towne",
+    "destination": "Goodland"
+  },
+  {
+    "employeeId": "EDB829795",
+    "vehicleType": "Car",
+    "vehicleNo": "1FTMF1EW0AF017010",
+    "vacantSeats": 4,
+    "time": "13:40",
+    "pickupPoint": "Derek",
+    "destination": "Stephen"
+  },
+  {
+    "employeeId": "DRE708887",
+    "vehicleType": "Car",
+    "vehicleNo": "1G6DJ8EGXA0296782",
+    "vacantSeats": 2,
+    "time": "14:04",
+    "pickupPoint": "Twin Pines",
+    "destination": "Hudson"
+  },
+  {
+    "employeeId": "PYV362495",
+    "vehicleType": "Bike",
+    "vehicleNo": "5TDBCRFH1FS863932",
+    "vacantSeats": 4,
+    "time": "7:48",
+    "pickupPoint": "Algoma",
+    "destination": "Lakewood"
+  },
+  {
+    "employeeId": "BOH860227",
+    "vehicleType": "Car",
+    "vehicleNo": "5GAEV13D89J499232",
+    "vacantSeats": 1,
+    "time": "0:18",
+    "pickupPoint": "Montana",
+    "destination": "Carioca"
+  },
+  {
+    "employeeId": "FGF129122",
+    "vehicleType": "Bike",
+    "vehicleNo": "WAUAH78E97A468932",
+    "vacantSeats": 1,
+    "time": "16:05",
+    "pickupPoint": "Melvin",
+    "destination": "Manufacturers"
+  },
+  {
+    "employeeId": "VRL389374",
+    "vehicleType": "Bike",
+    "vehicleNo": "5TFCM5F18AX063886",
+    "vacantSeats": 4,
+    "time": "21:10",
+    "pickupPoint": "Arizona",
+    "destination": "Badeau"
+  },
+  {
+    "employeeId": "WDE093652",
+    "vehicleType": "Bike",
+    "vehicleNo": "5TDBK3EH9CS516717",
+    "vacantSeats": 0,
+    "time": "4:48",
+    "pickupPoint": "Dottie",
+    "destination": "Northridge"
+  },
+  {
+    "employeeId": "DVP966411",
+    "vehicleType": "Bike",
+    "vehicleNo": "2C4RDGBG0FR252196",
+    "vacantSeats": 2,
+    "time": "10:56",
+    "pickupPoint": "Annamark",
+    "destination": "Almo"
+  },
+  {
+    "employeeId": "DPB600304",
+    "vehicleType": "Car",
+    "vehicleNo": "19UYA41603A619773",
+    "vacantSeats": 1,
+    "time": "15:54",
+    "pickupPoint": "Esker",
+    "destination": "Eliot"
+  },
+  {
+    "employeeId": "XZS663934",
+    "vehicleType": "Car",
+    "vehicleNo": "JA32X8HW2DU214612",
+    "vacantSeats": 3,
+    "time": "10:08",
+    "pickupPoint": "Waxwing",
+    "destination": "2nd"
+  },
+  {
+    "employeeId": "VXR103536",
+    "vehicleType": "Bike",
+    "vehicleNo": "3D73M3HL5BG122343",
+    "vacantSeats": 1,
+    "time": "8:34",
+    "pickupPoint": "Burrows",
+    "destination": "1st"
+  },
+  {
+    "employeeId": "YEY955676",
+    "vehicleType": "Bike",
+    "vehicleNo": "5NPDH4AE2BH022440",
+    "vacantSeats": 1,
+    "time": "3:24",
+    "pickupPoint": "Waywood",
+    "destination": "Sundown"
+  },
+  {
+    "employeeId": "EBW137439",
+    "vehicleType": "Car",
+    "vehicleNo": "SALGR2VF8FA077207",
+    "vacantSeats": 3,
+    "time": "10:35",
+    "pickupPoint": "Talmadge",
+    "destination": "Waubesa"
+  },
+  {
+    "employeeId": "QKO719279",
+    "vehicleType": "Bike",
+    "vehicleNo": "WAUNF98P68A458185",
+    "vacantSeats": 3,
+    "time": "16:05",
+    "pickupPoint": "Victoria",
+    "destination": "Cardinal"
+  },
+  {
+    "employeeId": "XYL775861",
+    "vehicleType": "Car",
+    "vehicleNo": "5N1AT2MK2FC348016",
+    "vacantSeats": 1,
+    "time": "8:58",
+    "pickupPoint": "Clyde Gallagher",
+    "destination": "Fairfield"
+  },
+  {
+    "employeeId": "WRU628450",
+    "vehicleType": "Car",
+    "vehicleNo": "WBAFU9C59DD833026",
+    "vacantSeats": 2,
+    "time": "18:39",
+    "pickupPoint": "Packers",
+    "destination": "Meadow Valley"
+  },
+  {
+    "employeeId": "MEF731643",
+    "vehicleType": "Bike",
+    "vehicleNo": "WBABS33403P850996",
+    "vacantSeats": 0,
+    "time": "02:36",
+    "pickupPoint": "Pepper Wood",
+    "destination": "Kenwood"
+  },
+  {
+    "employeeId": "FJX115992",
+    "vehicleType": "Bike",
+    "vehicleNo": "5TDDK3DC5ES490926",
+    "vacantSeats": 1,
+    "time": "02:44",
+    "pickupPoint": "Delladonna",
+    "destination": "Kennedy"
+  }
+ ]

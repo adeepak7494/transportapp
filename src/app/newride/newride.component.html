@@ -1,1 +1,52 @@
-<p>newride works!</p>
+<p-card [style]="{width: '95%', margin : '20px'}" styleClass="p-card-shadow">
+    <ng-template pTemplate="header">
+        <h2 style="margin: 10px 10px;">Add New Ride</h2>
+        <div style="float: right; margin-right: 10px; margin-top: -30px;">
+            <p-button type="submit" [disabled]="!rideDetailsForm.valid" label="Add" (click)="onSubmit()"
+            icon="pi pi-check"></p-button>
+           <p-button label="Cancel" icon="pi pi-times" styleClass="p-button-secondary" 
+           [style]="{'margin-left': '.5em'}"></p-button>
+        </div>
+    </ng-template>
+    <form [formGroup]="rideDetailsForm">
+        <div class="formStyle">
+            <label for="employee_Id">Employee Id: </label>
+            <input id="employee_Id" type="text" formControlName="employeeId">
+        </div>
+
+        <div class="formStyle">
+            <label for="vehicle_Type">Vehicle Type: </label>
+            <select id="vehicle_Type" formControlName="vehicleType">
+                <option value="Car">Car</option>
+                <option value="Car">Bike</option>
+            </select>
+        </div>
+
+        <div class="formStyle">
+            <label for="vehicle_No">Vehicle Number: </label>
+            <input id="vehicle_No" type="text" formControlName="vehicleNo">
+        </div>
+
+        <div class="formStyle">
+            <label for="vacant_Seats">Vacant Seats: </label>
+            <input id="vacant_Seats" type="number" formControlName="vacantSeats">
+        </div>
+
+        <div class="formStyle">
+            <label for="time">Time: </label>
+            <input id="time" type="time" formControlName="time">
+        </div>
+
+        <div class="formStyle">
+            <label for="pickup_Point">Pick Up: </label>
+            <input id="pickup_Point" type="text" formControlName="pickupPoint">
+        </div>
+        <div class="formStyle">
+            <label for="destination">Drop: </label>
+            <input id="destination" type="text" formControlName="destination">
+        </div>
+    </form>
+    <ng-template pTemplate="footer">
+      
+    </ng-template>
+</p-card>
