@@ -17,7 +17,6 @@ import {DialogModule} from 'primeng/dialog';
 import { HttpClientModule } from '@angular/common/http';
 import { MessageService } from 'primeng/api';
 
-
 @NgModule({
   declarations: [
     AppComponent,
