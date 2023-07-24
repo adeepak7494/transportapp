@@ -11,16 +11,13 @@
       "prefix": "app",
       "architect": {
         "build": {
-          "builder": "@angular-builders/custom-webpack:browser",
+          "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "docs",
+            "outputPath": "dist/sandbox",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
             "tsConfig": "tsconfig.app.json",
-            "customWebpackConfig": {
-              "path": "./custom-webpack.config.js"
-            },
             "assets": [
               "src/favicon.ico",
               "src/assets"
@@ -106,5 +103,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "5ef65fa7-5d1d-463a-a241-e4467aa9f6ca"
   }
 }
