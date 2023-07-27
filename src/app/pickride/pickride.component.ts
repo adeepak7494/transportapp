@@ -2,6 +2,8 @@ import { Component, OnInit } from '@angular/core';
 import { Ride, StaticField } from '../models/ride';
 import { MessageService } from 'primeng/api';
 import * as moment from 'moment';
+import {DialogService} from 'primeng/dynamicdialog';
+import {NewrideComponent} from '../newride/newride.component';
 
 @Component({
   selector: 'app-pickride',
@@ -29,7 +31,7 @@ export class PickrideComponent implements OnInit {
     });
     return filteredRides;
   }
-  constructor(private messageService : MessageService) { }
+  constructor(private messageService : MessageService,public dialogService: DialogService) { }
 
   ngOnInit(): void {
    
@@ -43,6 +45,14 @@ export class PickrideComponent implements OnInit {
     console.log(ride);
     this.selectedRide = ride;
     this.display = true;
+  }
+
+  addRide(event : any) {
+    console.log(event);
+     const ref = this.dialogService.open(NewrideComponent, {
+        header: 'Add a new ride',
+        width: '70%'
+    });
   }
 
   confirmRide() {

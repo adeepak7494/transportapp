@@ -14,6 +14,8 @@ import {DropdownModule} from 'primeng/dropdown';
 import {TableModule} from 'primeng/table';
 import {ToastModule} from 'primeng/toast';
 import {DialogModule} from 'primeng/dialog';
+import {PanelModule} from 'primeng/panel';
+import {DynamicDialogModule} from 'primeng/dynamicdialog';
 import { HttpClientModule } from '@angular/common/http';
 import { MessageService } from 'primeng/api';
 
@@ -35,11 +37,14 @@ import { MessageService } from 'primeng/api';
     ButtonModule,
     SplitterModule,
     DropdownModule,
+    PanelModule,
     TableModule,
     DialogModule,
+    DynamicDialogModule,
     ToastModule
   ],
   providers: [MessageService],
+  entryComponents : [NewrideComponent],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
